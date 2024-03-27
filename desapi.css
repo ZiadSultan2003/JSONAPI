@@ -1,0 +1,33 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0px;
+}
+#user {
+  border-radius: 100px;
+  padding: 10px;
+  padding-left: 20px;
+  font-size: 20px;
+  background-color: white;
+  margin-top: 15px;
+  cursor: pointer;
+}
+#post {
+  font-size: 20px;
+  background-color: white;
+  padding: 10px;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+#posts-continer {
+  width: 70%;
+  background-color: rgb(236, 236, 236);
+}
+#posts,
+#users {
+  width: 90%;
+  margin: 0 auto;
+}
